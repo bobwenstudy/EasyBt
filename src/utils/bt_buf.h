@@ -6,7 +6,7 @@
 #ifndef _ZEPHYR_POLLING_COMMON_BT_BUF_H_
 #define _ZEPHYR_POLLING_COMMON_BT_BUF_H_
 
-#include "easybt_config.h"
+#include "bt_config.h"
 
 #include "bluetooth/buf.h"
 

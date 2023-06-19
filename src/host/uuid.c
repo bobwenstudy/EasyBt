@@ -9,7 +9,7 @@
 #include <string.h>
 #include <errno.h>
 
-#include "easybt_config.h"
+#include "bt_config.h"
 
 #include "base/byteorder.h"
 

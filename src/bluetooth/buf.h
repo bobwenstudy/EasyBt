@@ -18,7 +18,7 @@
  * @{
  */
 
-#include "easybt_config.h"
+#include "bt_config.h"
 
 #include <bluetooth/hci.h>
 

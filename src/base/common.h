@@ -7,7 +7,7 @@
 #ifndef _ZEPHYR_POLLING_BASE_COMMON_H_
 #define _ZEPHYR_POLLING_BASE_COMMON_H_
 
-#include "easybt_config.h"
+#include "bt_config.h"
 
 #include "base/util.h"
 #include "base/gcc.h"

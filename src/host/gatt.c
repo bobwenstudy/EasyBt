@@ -12,7 +12,7 @@
 #include <stdlib.h>
 #include <stdarg.h>
 
-#include "easybt_config.h"
+#include "bt_config.h"
 #include "gatt_internal.h"
 
 // #include "base/atomic.h"

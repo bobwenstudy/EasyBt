@@ -12,7 +12,7 @@
 
 #include <stddef.h>
 
-#include "easybt_config.h"
+#include "bt_config.h"
 
 #include "base/types.h"
 #include "base/gcc.h"

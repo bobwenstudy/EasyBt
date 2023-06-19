@@ -10,7 +10,7 @@
 #include <stdarg.h>
 #include <stddef.h>
 
-#include "easybt_config.h"
+#include "bt_config.h"
 
 #ifdef __cplusplus
 extern "C" {

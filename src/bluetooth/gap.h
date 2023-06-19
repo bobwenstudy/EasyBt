@@ -11,7 +11,7 @@
 #ifndef _ZEPHYR_POLLING_BLUETOOTH_GAP_H_
 #define _ZEPHYR_POLLING_BLUETOOTH_GAP_H_
 
-#include "easybt_config.h"
+#include "bt_config.h"
 #include "base/common.h"
 
 #ifdef __cplusplus

@@ -54,7 +54,7 @@
  *
  *  uECC_platform_specific.c -- Implementation of platform specific functions
  */
-#include "easybt_config.h"
+#include "bt_config.h"
 
 
 #if defined(unix) || defined(__linux__) || defined(__unix__) || \

@@ -16,7 +16,7 @@
  * @ingroup bluetooth
  * @{
  */
-#include "easybt_config.h"
+#include "bt_config.h"
 
 #include "base/common.h"
 #include <bluetooth/buf.h>

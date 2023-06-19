@@ -20,7 +20,7 @@
 #include <stdbool.h>
 
 #include "base/types.h"
-#include <easybt_config.h>
+#include <bt_config.h>
 
 #ifndef _ASMLANGUAGE
 

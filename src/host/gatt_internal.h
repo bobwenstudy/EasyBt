@@ -11,7 +11,7 @@
 #ifndef _ZEPHYR_POLLING_HOST_GATT_INTERNAL_H_
 #define _ZEPHYR_POLLING_HOST_GATT_INTERNAL_H_
 
-#include "easybt_config.h"
+#include "bt_config.h"
 
 #include "conn.h"
 #include "bluetooth/gatt.h"

@@ -1,7 +1,7 @@
 #ifndef _ZEPHYR_POLLING_COMMON_bt_storage_kv_H_
 #define _ZEPHYR_POLLING_COMMON_bt_storage_kv_H_
 
-#include "easybt_config.h"
+#include "bt_config.h"
 
 #include "base/types.h"
 

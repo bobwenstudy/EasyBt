@@ -19,7 +19,7 @@
 
 #include <stdbool.h>
 
-#include "easybt_config.h"
+#include "bt_config.h"
 
 #include <bluetooth/addr.h>
 #include <bluetooth/bluetooth.h>

@@ -4,7 +4,7 @@
 #include <stddef.h>
 #include <stdarg.h>
 
-#include "easybt_config.h"
+#include "bt_config.h"
 
 #include "base/types.h"
 

@@ -1,7 +1,7 @@
 #ifndef _ZEPHYR_POLLING_DRIVERS_CHIPSET_H_
 #define _ZEPHYR_POLLING_DRIVERS_CHIPSET_H_
 
-#include "easybt_config.h"
+#include "bt_config.h"
 
 #ifdef __cplusplus
 extern "C" {

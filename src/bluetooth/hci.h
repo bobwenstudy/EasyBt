@@ -11,7 +11,7 @@
 #include <stdbool.h>
 #include <string.h>
 
-#include "easybt_config.h"
+#include "bt_config.h"
 
 #include "base/types.h"
 #include "base/gcc.h"

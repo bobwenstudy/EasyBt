@@ -29,7 +29,7 @@
  *  ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  *  POSSIBILITY OF SUCH DAMAGE.
  */
-#include "easybt_config.h"
+#include "bt_config.h"
 
 #include <tinycrypt/hmac.h>
 #include <tinycrypt/constants.h>

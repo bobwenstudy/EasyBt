@@ -19,7 +19,7 @@
 
 #include <stdbool.h>
 
-#include "easybt_config.h"
+#include "bt_config.h"
 
 #include "utils/net_buf.h"
 

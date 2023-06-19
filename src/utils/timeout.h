@@ -15,7 +15,7 @@
 #ifndef _ZEPHYR_POLLING_UTILS_TIMEOUT_H_
 #define _ZEPHYR_POLLING_UTILS_TIMEOUT_H_
 
-#include "easybt_config.h"
+#include "bt_config.h"
 
 #include "base/types.h"
 

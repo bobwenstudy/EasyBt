@@ -18,7 +18,7 @@
  * as a part of ongoing development.
  */
 
-#include "easybt_config.h"
+#include "bt_config.h"
 
 #include "base/types.h"
 
